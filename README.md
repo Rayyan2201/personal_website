@@ -55,36 +55,6 @@ rayyan-portfolio/
     └── CV.pdf          # Dokumen CV yang ditautkan pada website
 ```
 
-## Cara Menjalankan di Komputer
-
-1. Ekstrak file ZIP proyek.
-2. Buka folder `rayyan-portfolio`.
-3. Klik dua kali file `index.html`.
-4. Website akan terbuka di browser modern seperti Google Chrome, Microsoft Edge, atau Firefox.
-
-Tidak ada instalasi dependency atau perintah build yang diperlukan.
-
-## Cara Mengubah Konten
-
-- **Teks dan bagian halaman:** edit `index.html`.
-- **Warna, tampilan, layout, dan animasi CSS:** edit `styles.css`.
-- **Perilaku menu, tema, dan interaksi:** edit `script.js`.
-- **Foto profil:** ganti `assets/profile.jpg` dengan foto baru, gunakan nama file yang sama agar tautan tetap berfungsi.
-- **Logo:** ganti `assets/logo-rayyan.png` atau sesuaikan referensinya di `index.html`.
-- **CV:** ganti `assets/CV.pdf` dengan file CV terbaru menggunakan nama yang sama.
-
-Sebaiknya simpan salinan cadangan sebelum mengubah file. Pastikan struktur folder dan nama aset tetap sesuai dengan yang dirujuk oleh HTML.
-
-## Publikasi ke Internet
-
-Karena website ini statis, website dapat dipublikasikan melalui layanan hosting statis seperti **GitHub Pages**, **Netlify**, atau hosting web pribadi.
-
-Unggah seluruh isi folder proyek, bukan hanya `index.html`, agar file CSS, JavaScript, foto, logo, dan CV tetap dapat ditemukan. Setelah dipublikasikan, buka alamat website dari perangkat desktop dan ponsel untuk memeriksa tampilannya.
-
-## Catatan
-
-Informasi profil, pengalaman, pendidikan, kontak, dan dokumen CV mengikuti konten yang tersedia di dalam proyek. Periksa kembali informasi tersebut sebelum menggunakan website untuk keperluan profesional atau membagikannya kepada publik.
-
 ---
 
 **Dibuat sebagai personal portfolio Rayyan Muhammad Arraffi.**
